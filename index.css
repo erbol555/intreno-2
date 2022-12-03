@@ -1,0 +1,15 @@
+.main__section{
+    background-image: url("mein__img.png");
+    height: 831px;
+    border-radius: 0px 0px 0px 290px;
+    background-size: cover;
+    background-position: center;
+    padding-top: 18px;
+
+}
+.main__section__text{
+    width: 600px;
+    height: 388px;
+   margin: 195px 0 0 120px;
+   
+}
